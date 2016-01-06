@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>fr_FR</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.2.0</string>
+	<key>CodaAuthorString</key>
+	<string>studio RVOLA</string>
+	<key>CodaDescriptionString</key>
+	<string>Autocompletion for ACF / bundle 5.3 - https://github.com/rvola/Advanced-Custom-Fields</string>
+	<key>CodaIconMaskFile</key>
+	<string>logo-acf.pdf</string>
+	<key>CodaIconMaskTintString</key>
+	<string>#5EE8BF</string>
+	<key>CodaPlugInMinimumAPIVersion</key>
+	<string>7</string>
+	<key>CodaPlugInSupportedAPIVersion</key>
+	<string>7</string>
+	<key>ModeIdentifiers</key>
+	<array>
+		<string>SEEMode.PHP-HTML</string>
+	</array>
+	<key>NSHumanReadableCopyright</key>
+	<string>© 2014-2016, studio RVOLA. All rights reserved.</string>
+</dict>
+</plist>
