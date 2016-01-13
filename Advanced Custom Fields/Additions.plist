@@ -363,6 +363,16 @@
 				<string>$post_id</string>
 			</array>
 		</dict>
+		<dict>
+			<key>String</key>
+			<string>get_row_index</string>
+			<key>ID</key>
+			<string>get_row_index</string>
+			<key>SelectionRange</key>
+			<string>{16,0}</string>
+			<key>PostString</key>
+			<string>();</string>
+		</dict>
 	</array>
 </dict>
 </plist>
