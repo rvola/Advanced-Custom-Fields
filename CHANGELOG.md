@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/rvola/Advanced-Custom-Fields/tree/1.3.0) - 2015-01-13
+[Full Changelog](https://github.com/rvola/Advanced-Custom-Fields/compare/1.2.0...1.3.0)
+
+* NEW / dictionnary [`get_row_index`](http://www.advancedcustomfields.com/resources/get_row_index/)
+
+---
+
 ## [1.2.0](https://github.com/rvola/Advanced-Custom-Fields/tree/1.2.0) - 2015-01-06
 
 * NEW / upload project to GitHub
