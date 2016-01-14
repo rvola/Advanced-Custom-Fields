@@ -19,6 +19,6 @@
 
 ---
 
-## 1.1.9 - 2015-01-06
+## 1.1.9 - 2014-12-05
 
 * Initial release before GitHub
