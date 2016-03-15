@@ -122,6 +122,7 @@
 			<key>Parameters</key>
 			<array>
 				<string>$sub_field_name</string>
+				<string>$format_value</string>
 			</array>
 		</dict>
 		<dict>
