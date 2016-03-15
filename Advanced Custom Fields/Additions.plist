@@ -46,9 +46,10 @@
 			<string>{17,0}</string>
 			<key>Parameters</key>
 			<array>
-				<string>$field_key</string>
+				<string>$field_name</string>
 				<string>$post_id</string>
-				<string>$options</string>
+				<string>$format_value</string>
+				<string>$load_value</string>
 			</array>
 		</dict>
 		<dict>
@@ -63,6 +64,7 @@
 			<key>Parameters</key>
 			<array>
 				<string>$sub_field_name</string>
+				<string>$format_value</string>
 			</array>
 		</dict>
 		<dict>
