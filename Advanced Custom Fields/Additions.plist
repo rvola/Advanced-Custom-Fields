@@ -144,12 +144,13 @@
 				<string>menu_title</string>
 				<string>menu_slug</string>
 				<string>capability</string>
-				<string>position</string>
 				<string>parent_slug</string>
+				<string>position</string>
 				<string>icon_url</string>
 				<string>redirect</string>
 				<string>post_id</string>
 				<string>autoload</string>
+				<string>update_button</string>
 			</array>
 		</dict>
 		<dict>
@@ -293,12 +294,13 @@
 				<string>menu_title</string>
 				<string>menu_slug</string>
 				<string>capability</string>
-				<string>position</string>
 				<string>parent_slug</string>
+				<string>position</string>
 				<string>icon_url</string>
 				<string>redirect</string>
 				<string>post_id</string>
 				<string>autoload</string>
+				<string>update_button</string>
 			</array>
 		</dict>
 		<dict>
