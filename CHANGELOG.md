@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/rvola/Advanced-Custom-Fields/tree/1.4.1) - 2016-03-15
+[Full Changelog](https://github.com/rvola/Advanced-Custom-Fields/compare/1.4.0...1.4.1)
+
+* UPDATED / dictionnary `acf_add_options_sub_page()` & `acf_add_options_page()` [Added new ‘update_button’ setting](https://www.advancedcustomfields.com/blog/acf-pro-5-3-7-update/)
+* MINOR / change order parameters in `acf_add_options_sub_page()` & `acf_add_options_page()`
+---
+
 ## [1.4.0](https://github.com/rvola/Advanced-Custom-Fields/tree/1.4.0) - 2016-03-15
 [Full Changelog](https://github.com/rvola/Advanced-Custom-Fields/compare/1.3.0...1.4.0)
 
