@@ -144,8 +144,8 @@
 				<string>menu_title</string>
 				<string>menu_slug</string>
 				<string>capability</string>
-				<string>position</string>
 				<string>parent_slug</string>
+				<string>position</string>
 				<string>icon_url</string>
 				<string>redirect</string>
 				<string>post_id</string>
@@ -294,8 +294,8 @@
 				<string>menu_title</string>
 				<string>menu_slug</string>
 				<string>capability</string>
-				<string>position</string>
 				<string>parent_slug</string>
+				<string>position</string>
 				<string>icon_url</string>
 				<string>redirect</string>
 				<string>post_id</string>
