@@ -150,6 +150,7 @@
 				<string>redirect</string>
 				<string>post_id</string>
 				<string>autoload</string>
+				<string>update_button</string>
 			</array>
 		</dict>
 		<dict>
@@ -299,6 +300,7 @@
 				<string>redirect</string>
 				<string>post_id</string>
 				<string>autoload</string>
+				<string>update_button</string>
 			</array>
 		</dict>
 		<dict>
