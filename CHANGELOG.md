@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.0](https://github.com/rvola/Advanced-Custom-Fields/tree/1.5.0) - 2016-06-20
+[Full Changelog](https://github.com/rvola/Advanced-Custom-Fields/compare/1.4.1...1.5.0)
+
+* NEW / dictionnary [`the_row_index()`](https://www.advancedcustomfields.com/blog/acf-pro-5-3-9-update/)  
+* FIX / cursor position `get_row_index()`
+
+---
+
 ## [1.4.1](https://github.com/rvola/Advanced-Custom-Fields/tree/1.4.1) - 2016-05-17
 [Full Changelog](https://github.com/rvola/Advanced-Custom-Fields/compare/1.4.0...1.4.1)
 
