@@ -78,7 +78,7 @@
 			<string>{14,0}</string>
 			<key>Parameters</key>
 			<array>
-				<string>$field_key</string>
+				<string>$selector</string>
 				<string>$value</string>
 				<string>$post_id</string>
 			</array>
