@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.6.0](https://github.com/rvola/Advanced-Custom-Fields/tree/1.6.0) - 2016-08-09
+[Full Changelog](https://github.com/rvola/Advanced-Custom-Fields/compare/1.5.0...1.6.0)
+
+* UPDATED / change variable name in `update_field`
+* NEW / Add `honeypot` variable in [`acf_form`](https://www.advancedcustomfields.com/resources/acf_form/)
+* UPDATED / Conventions PHP functions
+
+---
+
 ## [1.5.0](https://github.com/rvola/Advanced-Custom-Fields/tree/1.5.0) - 2016-06-20
 [Full Changelog](https://github.com/rvola/Advanced-Custom-Fields/compare/1.4.1...1.5.0)
 
