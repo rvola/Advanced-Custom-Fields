@@ -211,6 +211,7 @@
 				<string>instruction_placement</string>
 				<string>field_el</string>
 				<string>uploader</string>
+				<string>honeypot</string>
 			</array>
 		</dict>
 		<dict>
