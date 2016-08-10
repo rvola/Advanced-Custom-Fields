@@ -10,7 +10,7 @@
 			<key>ID</key>
 			<string>get_field</string>
 			<key>PostString</key>
-			<string>(  );</string>
+			<string>(  )</string>
 			<key>SelectionRange</key>
 			<string>{11,0}</string>
 			<key>Parameters</key>
@@ -26,7 +26,7 @@
 			<key>ID</key>
 			<string>the_field</string>
 			<key>PostString</key>
-			<string>(  );</string>
+			<string>(  )</string>
 			<key>SelectionRange</key>
 			<string>{11,0}</string>
 			<key>Parameters</key>
@@ -41,7 +41,7 @@
 			<key>ID</key>
 			<string>get_field_object</string>
 			<key>PostString</key>
-			<string>(  );</string>
+			<string>(  )</string>
 			<key>SelectionRange</key>
 			<string>{18,0}</string>
 			<key>Parameters</key>
@@ -58,7 +58,7 @@
 			<key>ID</key>
 			<string>get_sub_field</string>
 			<key>PostString</key>
-			<string>(  );</string>
+			<string>(  )</string>
 			<key>SelectionRange</key>
 			<string>{15,0}</string>
 			<key>Parameters</key>
@@ -73,7 +73,7 @@
 			<key>ID</key>
 			<string>update_field</string>
 			<key>PostString</key>
-			<string>(  );</string>
+			<string>(  )</string>
 			<key>SelectionRange</key>
 			<string>{14,0}</string>
 			<key>Parameters</key>
@@ -89,7 +89,7 @@
 			<key>ID</key>
 			<string>get_fields</string>
 			<key>PostString</key>
-			<string>(  );</string>
+			<string>(  )</string>
 			<key>SelectionRange</key>
 			<string>{12,0}</string>
 			<key>Parameters</key>
@@ -103,7 +103,7 @@
 			<key>ID</key>
 			<string>has_sub_field</string>
 			<key>PostString</key>
-			<string>(  );</string>
+			<string>(  )</string>
 			<key>SelectionRange</key>
 			<string>{15,0}</string>
 			<key>Parameters</key>
@@ -118,7 +118,7 @@
 			<key>ID</key>
 			<string>the_sub_field</string>
 			<key>PostString</key>
-			<string>(  );</string>
+			<string>(  )</string>
 			<key>SelectionRange</key>
 			<string>{15,0}</string>
 			<key>Parameters</key>
@@ -133,7 +133,7 @@
 			<key>ID</key>
 			<string>acf_add_options_sub_page</string>
 			<key>PostString</key>
-			<string>( array(  ) );</string>
+			<string>( array(  ) )</string>
 			<key>New item</key>
 			<string></string>
 			<key>SelectionRange</key>
@@ -159,7 +159,7 @@
 			<key>ID</key>
 			<string>have_rows</string>
 			<key>PostString</key>
-			<string>(  );</string>
+			<string>(  )</string>
 			<key>SelectionRange</key>
 			<string>{11,0}</string>
 			<key>Parameters</key>
@@ -174,7 +174,7 @@
 			<key>ID</key>
 			<string>get_field_objects</string>
 			<key>PostString</key>
-			<string>(  );</string>
+			<string>(  )</string>
 			<key>SelectionRange</key>
 			<string>{19,0}</string>
 			<key>Parameters</key>
@@ -188,7 +188,7 @@
 			<key>ID</key>
 			<string>acf_form</string>
 			<key>PostString</key>
-			<string>( array(  ) );</string>
+			<string>( array(  ) )</string>
 			<key>SelectionRange</key>
 			<string>{17,0}</string>
 			<key>Parameters</key>
@@ -222,7 +222,7 @@
 			<key>SelectionRange</key>
 			<string>{17,0}</string>
 			<key>PostString</key>
-			<string>();</string>
+			<string>()</string>
 		</dict>
 		<dict>
 			<key>String</key>
@@ -232,7 +232,7 @@
 			<key>SelectionRange</key>
 			<string>{22,0}</string>
 			<key>PostString</key>
-			<string>(  );</string>
+			<string>(  )</string>
 			<key>Parameters</key>
 			<array>
 				<string>$field_key</string>
@@ -246,7 +246,7 @@
 			<key>SelectionRange</key>
 			<string>{27,0}</string>
 			<key>PostString</key>
-			<string>(  );</string>
+			<string>(  )</string>
 			<key>Parameters</key>
 			<array>
 				<string>$menu_name </string>
@@ -260,7 +260,7 @@
 			<key>SelectionRange</key>
 			<string>{28,0}</string>
 			<key>PostString</key>
-			<string>(  );</string>
+			<string>(  )</string>
 			<key>Parameters</key>
 			<array>
 				<string>$title</string>
@@ -274,7 +274,7 @@
 			<key>SelectionRange</key>
 			<string>{33,0}</string>
 			<key>PostString</key>
-			<string>(  );</string>
+			<string>(  )</string>
 			<key>Parameters</key>
 			<array>
 				<string>$capability</string>
@@ -288,7 +288,7 @@
 			<key>SelectionRange</key>
 			<string>{29,0}</string>
 			<key>PostString</key>
-			<string>( array(  ) );</string>
+			<string>( array(  ) )</string>
 			<key>Parameters</key>
 			<array>
 				<string>page_title</string>
@@ -312,7 +312,7 @@
 			<key>SelectionRange</key>
 			<string>{18,0}</string>
 			<key>PostString</key>
-			<string>(  );</string>
+			<string>(  )</string>
 			<key>Parameters</key>
 			<array>
 				<string>$selector</string>
@@ -328,7 +328,7 @@
 			<key>SelectionRange</key>
 			<string>{9,0}</string>
 			<key>PostString</key>
-			<string>(  );</string>
+			<string>(  )</string>
 			<key>Parameters</key>
 			<array>
 				<string>$selector</string>
@@ -344,7 +344,7 @@
 			<key>SelectionRange</key>
 			<string>{12,0}</string>
 			<key>PostString</key>
-			<string>(  );</string>
+			<string>(  )</string>
 			<key>Parameters</key>
 			<array>
 				<string>$selector</string>
@@ -360,7 +360,7 @@
 			<key>SelectionRange</key>
 			<string>{12,0}</string>
 			<key>PostString</key>
-			<string>(  );</string>
+			<string>(  )</string>
 			<key>Parameters</key>
 			<array>
 				<string>$selector</string>
@@ -377,7 +377,7 @@
 			<key>SelectionRange</key>
 			<string>{16,0}</string>
 			<key>PostString</key>
-			<string>();</string>
+			<string>()</string>
 		</dict>
 		<dict>
 			<key>String</key>
@@ -387,7 +387,7 @@
 			<key>SelectionRange</key>
 			<string>{9,0}</string>
 			<key>PostString</key>
-			<string>(  );</string>
+			<string>(  )</string>
 			<key>Parameters</key>
 			<array>
 				<string>$format_values</string>
@@ -401,7 +401,7 @@
 			<key>SelectionRange</key>
 			<string>{16,0}</string>
 			<key>PostString</key>
-			<string>();</string>
+			<string>()</string>
 		</dict>
 	</array>
 </dict>
