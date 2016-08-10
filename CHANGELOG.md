@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.1](https://github.com/rvola/Advanced-Custom-Fields/tree/1.6.1) - 2016-08-10
+[Full Changelog](https://github.com/rvola/Advanced-Custom-Fields/compare/1.6.0...1.6.1)
+
+* UPDATED / PHP Conventions 
+
+---
+
 ## [1.6.0](https://github.com/rvola/Advanced-Custom-Fields/tree/1.6.0) - 2016-08-09
 [Full Changelog](https://github.com/rvola/Advanced-Custom-Fields/compare/1.5.0...1.6.0)
 
