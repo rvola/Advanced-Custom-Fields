@@ -597,6 +597,20 @@
 				<string>$post_id</string>
 			</array>
 		</dict>
+		<dict>
+			<key>String</key>
+			<string>register_field_group</string>
+			<key>ID</key>
+			<string>register_field_group</string>
+			<key>SelectionRange</key>
+			<string>{22,0}</string>
+			<key>PostString</key>
+			<string>(  )</string>
+			<key>Parameters</key>
+			<array>
+				<string>$field_group</string>
+			</array>
+		</dict>
 	</array>
 </dict>
 </plist>
