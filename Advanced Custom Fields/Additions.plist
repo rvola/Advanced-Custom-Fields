@@ -466,6 +466,16 @@
 				<string>$selector</string>
 			</array>
 		</dict>
+		<dict>
+			<key>String</key>
+			<string>reset_rows</string>
+			<key>ID</key>
+			<string>reset_rows</string>
+			<key>SelectionRange</key>
+			<string>{12,0}</string>
+			<key>PostString</key>
+			<string>()</string>
+		</dict>
 	</array>
 </dict>
 </plist>
