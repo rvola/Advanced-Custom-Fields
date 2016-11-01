@@ -368,8 +368,8 @@
 			<key>Parameters</key>
 			<array>
 				<string>$selector</string>
+				<string>$i</string>
 				<string>$row</string>
-				<string>$value</string>
 				<string>$post_id</string>
 			</array>
 		</dict>
