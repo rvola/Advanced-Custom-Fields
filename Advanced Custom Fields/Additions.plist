@@ -639,6 +639,16 @@
 				<string>$field</string>
 			</array>
 		</dict>
+		<dict>
+			<key>String</key>
+			<string>reset_the_repeater_field</string>
+			<key>ID</key>
+			<string>reset_the_repeater_field</string>
+			<key>SelectionRange</key>
+			<string>{26,0}</string>
+			<key>PostString</key>
+			<string>()</string>
+		</dict>
 	</array>
 </dict>
 </plist>
