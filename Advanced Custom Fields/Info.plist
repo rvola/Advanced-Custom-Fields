@@ -15,11 +15,11 @@
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.6.1</string>
+	<string>1.7.0</string>
 	<key>CodaAuthorString</key>
 	<string>studio RVOLA</string>
 	<key>CodaDescriptionString</key>
-	<string>Autocompletion for ACF / bundle 5.4.0 - https://github.com/rvola/Advanced-Custom-Fields</string>
+	<string>Autocompletion for ACF / bundle 5.4.x - https://github.com/rvola/Advanced-Custom-Fields</string>
 	<key>CodaIconMaskFile</key>
 	<string>logo-acf.pdf</string>
 	<key>CodaIconMaskTintString</key>
