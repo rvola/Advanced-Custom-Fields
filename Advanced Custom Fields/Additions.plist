@@ -64,7 +64,7 @@
 			<string>{15,0}</string>
 			<key>Parameters</key>
 			<array>
-				<string>$sub_field_name</string>
+				<string>$selector</string>
 				<string>$format_value</string>
 			</array>
 		</dict>
@@ -125,7 +125,7 @@
 			<string>{15,0}</string>
 			<key>Parameters</key>
 			<array>
-				<string>$sub_field_name</string>
+				<string>$field_name</string>
 				<string>$format_value</string>
 			</array>
 		</dict>
