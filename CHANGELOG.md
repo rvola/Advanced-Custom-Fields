@@ -1,5 +1,39 @@
 # Changelog
 
+## [1.7.0](https://github.com/rvola/Advanced-Custom-Fields/tree/1.7.0) - 2016-11-01
+[Full Changelog](https://github.com/rvola/Advanced-Custom-Fields/compare/1.6.1...1.7.0)
+
+* NEW / `acf_filter_post_id`
+* NEW / `the_flexible_field`
+* NEW / `the_repeater_field`
+* NEW / `reset_the_repeater_field`
+* NEW / `render_field`
+* NEW / `create_field`
+* NEW / `register_field_group`
+* NEW / `delete_sub_row`
+* NEW / `update_sub_row`
+* NEW / `add_sub_row`
+* NEW / `delete_sub_field`
+* NEW / `delete_field`
+* NEW / `update_sub_field`
+* NEW / `acf_form_head`
+* NEW / `get_sub_field_object`
+* NEW / `reset_rows`
+* NEW / `get_sub_field_object`
+* NEW / `get_row_sub_field`
+* NEW / `the_row`
+* NEW / `acf_get_field_reference`
+* UPDATED / Field `update_row`
+* FIX / cursor position (PEAR)
+* UPDATED / Change $format_values > $format
+* NEW / $load_value forgotten
+* UPDATED / Change $row > $i
+* UPDATED / Change $sub_field_name > $selector
+* NEW / $format_value forgotten
+* UPDATED / Change $field_name > $selector
+
+---
+
 ## [1.6.1](https://github.com/rvola/Advanced-Custom-Fields/tree/1.6.1) - 2016-08-10
 [Full Changelog](https://github.com/rvola/Advanced-Custom-Fields/compare/1.6.0...1.6.1)
 
