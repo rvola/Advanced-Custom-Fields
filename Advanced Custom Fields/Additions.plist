@@ -436,6 +436,20 @@
 				<string>$format</string>
 			</array>
 		</dict>
+		<dict>
+			<key>String</key>
+			<string>get_row_sub_field</string>
+			<key>ID</key>
+			<string>get_row_sub_field</string>
+			<key>SelectionRange</key>
+			<string>{19,0}</string>
+			<key>PostString</key>
+			<string>(  )</string>
+			<key>Parameters</key>
+			<array>
+				<string>$selector</string>
+			</array>
+		</dict>
 	</array>
 </dict>
 </plist>
