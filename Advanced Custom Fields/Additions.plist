@@ -422,6 +422,20 @@
 				<string>$post_id</string>
 			</array>
 		</dict>
+		<dict>
+			<key>String</key>
+			<string>the_row</string>
+			<key>ID</key>
+			<string>the_row</string>
+			<key>SelectionRange</key>
+			<string>{9,0}</string>
+			<key>PostString</key>
+			<string>(  )</string>
+			<key>Parameters</key>
+			<array>
+				<string>$format</string>
+			</array>
+		</dict>
 	</array>
 </dict>
 </plist>
