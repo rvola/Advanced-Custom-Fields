@@ -625,6 +625,20 @@
 				<string>$field</string>
 			</array>
 		</dict>
+		<dict>
+			<key>String</key>
+			<string>render_field</string>
+			<key>ID</key>
+			<string>render_field</string>
+			<key>SelectionRange</key>
+			<string>{14,0}</string>
+			<key>PostString</key>
+			<string>(  )</string>
+			<key>Parameters</key>
+			<array>
+				<string>$field</string>
+			</array>
+		</dict>
 	</array>
 </dict>
 </plist>
