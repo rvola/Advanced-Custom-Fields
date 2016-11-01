@@ -533,6 +533,21 @@
 				<string>$post_id</string>
 			</array>
 		</dict>
+		<dict>
+			<key>String</key>
+			<string>delete_sub_field</string>
+			<key>ID</key>
+			<string>delete_sub_field</string>
+			<key>PostString</key>
+			<string>(  )</string>
+			<key>SelectionRange</key>
+			<string>{18,0}</string>
+			<key>Parameters</key>
+			<array>
+				<string>$selector</string>
+				<string>$post_id</string>
+			</array>
+		</dict>
 	</array>
 </dict>
 </plist>
