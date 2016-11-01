@@ -183,6 +183,7 @@
 			<array>
 				<string>$post_id</string>
 				<string>$format_value</string>
+				<string>$load_value</string>
 			</array>
 		</dict>
 		<dict>
