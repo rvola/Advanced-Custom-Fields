@@ -679,6 +679,20 @@
 				<string>$post_id</string>
 			</array>
 		</dict>
+		<dict>
+			<key>String</key>
+			<string>acf_filter_post_id</string>
+			<key>ID</key>
+			<string>acf_filter_post_id</string>
+			<key>SelectionRange</key>
+			<string>{20,0}</string>
+			<key>PostString</key>
+			<string>(  )</string>
+			<key>Parameters</key>
+			<array>
+				<string>$post_id</string>
+			</array>
+		</dict>
 	</array>
 </dict>
 </plist>
