@@ -450,6 +450,22 @@
 				<string>$selector</string>
 			</array>
 		</dict>
+		<dict>
+			<key>New item</key>
+			<string>get_sub_field_object</string>
+			<key>String</key>
+			<string>get_row_sub_value</string>
+			<key>ID</key>
+			<string>get_row_sub_value</string>
+			<key>SelectionRange</key>
+			<string>{19,0}</string>
+			<key>PostString</key>
+			<string>(  )</string>
+			<key>Parameters</key>
+			<array>
+				<string>$selector</string>
+			</array>
+		</dict>
 	</array>
 </dict>
 </plist>
