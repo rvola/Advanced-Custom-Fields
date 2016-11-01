@@ -649,6 +649,21 @@
 			<key>PostString</key>
 			<string>()</string>
 		</dict>
+		<dict>
+			<key>String</key>
+			<string>the_repeater_field</string>
+			<key>ID</key>
+			<string>the_repeater_field</string>
+			<key>SelectionRange</key>
+			<string>{20,0}</string>
+			<key>PostString</key>
+			<string>(  )</string>
+			<key>Parameters</key>
+			<array>
+				<string>$field_name</string>
+				<string>$post_id</string>
+			</array>
+		</dict>
 	</array>
 </dict>
 </plist>
