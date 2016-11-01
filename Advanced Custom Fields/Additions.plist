@@ -611,6 +611,20 @@
 				<string>$field_group</string>
 			</array>
 		</dict>
+		<dict>
+			<key>String</key>
+			<string>create_field</string>
+			<key>ID</key>
+			<string>create_field</string>
+			<key>SelectionRange</key>
+			<string>{14,0}</string>
+			<key>PostString</key>
+			<string>(  )</string>
+			<key>Parameters</key>
+			<array>
+				<string>$field</string>
+			</array>
+		</dict>
 	</array>
 </dict>
 </plist>
