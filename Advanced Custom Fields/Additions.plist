@@ -15,7 +15,7 @@
 			<string>{11,0}</string>
 			<key>Parameters</key>
 			<array>
-				<string>$field_name</string>
+				<string>$selector</string>
 				<string>$post_id</string>
 				<string>$format_value</string>
 			</array>
@@ -31,7 +31,7 @@
 			<string>{11,0}</string>
 			<key>Parameters</key>
 			<array>
-				<string>$field_name</string>
+				<string>$selector</string>
 				<string>$post_id</string>
 			</array>
 		</dict>
@@ -46,7 +46,7 @@
 			<string>{18,0}</string>
 			<key>Parameters</key>
 			<array>
-				<string>$field_name</string>
+				<string>$selector</string>
 				<string>$post_id</string>
 				<string>$format_value</string>
 				<string>$load_value</string>
@@ -164,7 +164,7 @@
 			<string>{11,0}</string>
 			<key>Parameters</key>
 			<array>
-				<string>$field_name</string>
+				<string>$selector</string>
 				<string>$post_id</string>
 			</array>
 		</dict>
