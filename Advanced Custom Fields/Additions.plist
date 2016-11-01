@@ -394,7 +394,7 @@
 			<string>(  )</string>
 			<key>Parameters</key>
 			<array>
-				<string>$format_values</string>
+				<string>$format</string>
 			</array>
 		</dict>
 		<dict>
