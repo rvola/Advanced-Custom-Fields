@@ -476,6 +476,22 @@
 			<key>PostString</key>
 			<string>()</string>
 		</dict>
+		<dict>
+			<key>String</key>
+			<string>get_sub_field_object</string>
+			<key>ID</key>
+			<string>get_sub_field_object</string>
+			<key>SelectionRange</key>
+			<string>{22,0}</string>
+			<key>PostString</key>
+			<string>(  )</string>
+			<key>Parameters</key>
+			<array>
+				<string>$selector</string>
+				<string>$format_value</string>
+				<string>$load_value</string>
+			</array>
+		</dict>
 	</array>
 </dict>
 </plist>
