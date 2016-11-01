@@ -407,6 +407,21 @@
 			<key>PostString</key>
 			<string>()</string>
 		</dict>
+		<dict>
+			<key>String</key>
+			<string>acf_get_field_reference</string>
+			<key>ID</key>
+			<string>acf_get_field_reference</string>
+			<key>SelectionRange</key>
+			<string>{25,0}</string>
+			<key>PostString</key>
+			<string>(  )</string>
+			<key>Parameters</key>
+			<array>
+				<string>$field_name</string>
+				<string>$post_id</string>
+			</array>
+		</dict>
 	</array>
 </dict>
 </plist>
