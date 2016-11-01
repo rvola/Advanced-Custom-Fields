@@ -224,7 +224,7 @@
 			<key>ID</key>
 			<string>get_row_layout</string>
 			<key>SelectionRange</key>
-			<string>{17,0}</string>
+			<string>{16,0}</string>
 			<key>PostString</key>
 			<string>()</string>
 		</dict>
@@ -379,7 +379,7 @@
 			<key>ID</key>
 			<string>get_row_index</string>
 			<key>SelectionRange</key>
-			<string>{16,0}</string>
+			<string>{15,0}</string>
 			<key>PostString</key>
 			<string>()</string>
 		</dict>
@@ -403,7 +403,7 @@
 			<key>ID</key>
 			<string>the_row_index</string>
 			<key>SelectionRange</key>
-			<string>{16,0}</string>
+			<string>{15,0}</string>
 			<key>PostString</key>
 			<string>()</string>
 		</dict>
